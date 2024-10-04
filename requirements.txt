@@ -1,0 +1,4 @@
+numpy~=2.0.2
+matplotlib~=3.9.2
+pygame~=2.6.0
+gymnasium~=0.29.1
