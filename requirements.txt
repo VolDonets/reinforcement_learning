@@ -3,3 +3,9 @@ matplotlib~=3.9.2
 pygame~=2.6.0
 box2d-py
 gymnasium~=0.29.1
+ale-py
+shimmy
+tqdm
+click
+AutoROM.accept-rom-license
+autorom
