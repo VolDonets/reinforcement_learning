@@ -9,3 +9,4 @@ tqdm
 click
 AutoROM.accept-rom-license
 autorom
+scipy
