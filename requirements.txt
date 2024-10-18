@@ -10,3 +10,6 @@ click
 AutoROM.accept-rom-license
 autorom
 scipy
+matplotlib
+torch
+tensorflow
